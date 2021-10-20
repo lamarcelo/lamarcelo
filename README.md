@@ -1,4 +1,7 @@
-### Opaaa!! Eu sou o Marcelo Lamonica
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FD428D&center=true&vCenter=true&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Estudante+e+desenvolvedor+front-end">
+</p>
+
 <div align="center">
   <a href="https://github.com/lamarcelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lamarcelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
