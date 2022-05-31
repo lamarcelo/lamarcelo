@@ -12,13 +12,19 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-## 🛠️ Linguagens de programação
-
+## 🛠️ Linguagens de programação Back-End
 <div align="center"><br>
   <img align="center" alt="Ma-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ma-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Ma-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Ma-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
+</div>
+
+## 🛠️ Linguagens de programação Front-End
+<div align="center"><br>
+  <img align="center" alt="Ma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="Ma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="Ma-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ## 🔥 Status GitHub
